@@ -1,21 +1,15 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: はじめてでもできるせどり入門
 image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+heading: せどり初心者のための入門サイト
+subheading: せどり初心者のための入門サイト
 mainpitch:
-  title: Why Kaldi
+  title: せどりが今なぜ？話題のなのか？
   description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+    サラリーマンの副業が解禁となりました。解禁されたといって実際行動している人は多くはありません。また、副業といってもクラウドソーシング、Uber
+    Eatsなどのアルバイト、ブログアフィリエイトなどが注目されています。その中でも最も今おススメなのはズバリ「せどり」です。このサイトでは、せどりを初心者向けに解説していき、しっかりサポートしていきます。情報商材を売りつける気はありませんのでご安心ください。
+description: せどりがおススメな理由
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -68,3 +62,4 @@ main:
     alt: Coffee beans
     image: /img/products-grid1.jpg
 ---
+
