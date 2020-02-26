@@ -1,19 +1,15 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: このサイトについて
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### サイト運営者
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+コリパン
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+地方在住のサラリーマン。現役アフィリエイターでもある。仕事をしながらせどりを開始。電脳せどりメインだが、店舗せどりも行っている。プログラミングが趣味でせどり向けツールを色々開発。ツールを駆使し、2か月目にて月収＋20万円にすることに成功。1児の父。
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+
+### 運営の意図
+
+わたし自身は、アフィリエイトやせどりを行い、わずかながら収入を得て生活をしています。Twitterでせどりについての情報を発信していますとせどりについての相談が来るようになりました。せどりというキーワードで検索すると結構怪しい方が怪しいサイトを作られていることが多いので、初心者の方が、挫折せず、、無理をせず、それなりに生活が豊かになる程度に稼ぐ方法について発信していけたらと思っています。
